@@ -1,0 +1,1 @@
+This Oline Academy platform uses React.js as the front-end framework, and Node.js and MongoDB as the back-end server to carry out the project of full-stack web development. Users have two identities to choose from (student and teacher), students can register for their favorite courses, and teachers can create online courses
